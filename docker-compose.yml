@@ -1,7 +1,7 @@
 version: '3'
 services:
  odoo:
-   image: odoo:17.0 #image of the odoo
+   image: odoo:18.0 #image of the odoo
    env_file: .env #environment file(contains odoo environment)
    depends_on:
      - postgres
