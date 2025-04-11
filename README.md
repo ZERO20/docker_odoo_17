@@ -4,7 +4,7 @@ Execute:
 docker-compose up
 ```
 
-Chec:
+Check:
 ```
 localhost:8000
 ```
